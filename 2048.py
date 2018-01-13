@@ -313,10 +313,6 @@ class Board:
         return ""
 
 
-        
-game = Game()
-game.play_random()
-
 
 
 
